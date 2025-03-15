@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!BAIRRO PLANEJADO VIDA NOVA html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
